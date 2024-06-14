@@ -1,1 +1,1 @@
-# DiacoModule
+# DiacoModule Manual V1.0.0
